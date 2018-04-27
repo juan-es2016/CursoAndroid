@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\banco_sol.png",
+        "source": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\src\\main\\res\\drawable-xhdpi\\banco_sol.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\banco_bnb.png",
+        "source": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\src\\main\\res\\drawable-xhdpi\\banco_bnb.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\banco_bisa.png",
+        "source": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\src\\main\\res\\drawable-xhdpi\\banco_bisa.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\banco_mercantil_sc.png",
+        "source": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\src\\main\\res\\drawable-xhdpi\\banco_mercantil_sc.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bien.png",
+        "source": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\src\\main\\res\\drawable-xhdpi\\bien.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icono_cajero.png",
+        "source": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\src\\main\\res\\drawable-xhdpi\\icono_cajero.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\alarma.png",
+        "source": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\src\\main\\res\\drawable-xhdpi\\alarma.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_acerca_de.png",
+        "source": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\src\\main\\res\\drawable-xhdpi\\ic_acerca_de.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\banco_fassil.png",
+        "source": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\src\\main\\res\\drawable-xhdpi\\banco_fassil.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\banco_ganadero.png",
+        "source": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\src\\main\\res\\drawable-xhdpi\\banco_ganadero.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_seguir.png",
+        "source": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\src\\main\\res\\drawable-xhdpi\\ic_seguir.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\banco_union.png",
+        "source": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\src\\main\\res\\drawable-xhdpi\\banco_union.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\banco_prodem.png",
+        "source": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\src\\main\\res\\drawable-xhdpi\\banco_prodem.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\banco_economico.png",
+        "source": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\src\\main\\res\\drawable-xhdpi\\banco_economico.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_enviar.png",
+        "source": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\src\\main\\res\\drawable-xhdpi\\ic_enviar.png"
+    }
+]

@@ -135,13 +135,6 @@ public class MainActivity extends BaseActivity
         }
 
     }
-    private void setUpActionBar() {
-        // Make sure we're running on Honeycomb or higher to use ActionBar APIs
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB) {
-            android.app.ActionBar actionBar = getActionBar();
-            actionBar.setDisplayHomeAsUpEnabled(true);
-        }
-    }
 
     private void pruebaHayConeccion(int pos) {
         if (!isOnline()) {

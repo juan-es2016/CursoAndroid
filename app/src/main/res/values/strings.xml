@@ -1,14 +1,11 @@
 <resources>
-    <string name="app_name">LocalizadorCajerosCochalaV2</string>
     <string name="string_your_company_copyright_c_2017">string_your_company_copyright_c_2017</string>
     <string name="imagen_splast">imagen splast</string>
-    <string name="title_activity_main2">Main2Activity</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
-    <string name="title_activity_home_maps">Map</string>
     <string name="home">Home</string>
     <string name="cercanos_a_mi">Cercanos</string>
     <string name="todos_cajeros">Listar Todos</string>
@@ -17,7 +14,6 @@
     <string name="nombres_del_lugar">nombre del lugar</string>
     <string name="imag_valoracion">imagen valoracion</string>
     <string name="direcci_n_del_lugar">direccion del lugar</string>
-    <string name="cercanos">Cercanos</string>
     <string name="pasos">Pasos</string>
     <string name="_0_km">0_km</string>
     <string name="distancia1">imagen distancia</string>
@@ -40,20 +36,12 @@
     <string name="seleccionar_nombre_entidad_financiera">Nombre Entidad Financiera</string>
     <string name="direccion">imagen direccion</string>
     <string name="horario">imagen horario</string>
-    <string name="a_pie">A pie</string>
-    <string name="a_auto">A auto</string>
-    <string name="toolbar_imagen">imagen banco</string>
     <string name="collapsing_toolbar">Collagsing toolbar</string>
     <string name="titulo">titulo</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="title_activity_prueba">ActivityPrueba</string>
     <string name="como_llegar">Como LLegar</string>
-    <string name="imagen_ruta_en_movil">imagen ruta en movil</string>
-    <string name="imagen_ruta_a_pie">imagen ruta a_pie</string>
-    <string name="titulo_fragment_anadir_sitio">Añade un Sitio</string>
-    <string name="title_activity_anadir_sitio_actvity">AnadirSitioActvity</string>
     <string name="añade_sitio">Agregar Cajero</string>
     <string name="icono_enviar">icono enviar</string>
     <string name="marcar_la_ubicacion_en_el_mapa">Marcar Ubicación en el Mapa</string>
@@ -63,9 +51,6 @@
     <string name="ajustes">Ajustes</string>
     <string name="auth_failed">error al autentificarse</string>
     <string name="title_activity_administrador_main">AdministradorMainActivity</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
     <string name="nombre">Buscar ATM</string>
     <string name="campos_obligatorios">Los campos con (*) son obligatorios</string>
     <string name="marcar_ubicaci_n">Marcar Ubicación(*)</string>
