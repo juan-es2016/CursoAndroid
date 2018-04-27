@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:checked="true"
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/cercanos_a_mi_ubcacion"
+            android:icon="@drawable/ic_cercanos_black_24dp"
+            android:title="@string/cercanos_a_mi" />
+        <item
+            android:id="@+id/nav_todos_cajeros"
+            android:icon="@drawable/ic_todos_black_24dp"
+            android:title="@string/todos_cajeros" />
+        <item
+            android:id="@+id/anadir_cajero"
+            android:icon="@drawable/ic_edit_black_24dp"
+            android:title="@string/a_adir_cajero_que_falta" />
+
+        <item android:title="....................................."></item>
+        <item
+            android:id="@+id/ajustes"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/ajustes" />
+        <item
+            android:id="@+id/nav_acerca_de"
+            android:icon="@drawable/ic_acerca_de"
+            android:title="@string/acerca_de" />
+    </group>
+
+</menu>

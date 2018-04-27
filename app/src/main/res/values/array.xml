@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="valores_array_dias">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sabado</item>
+        <item>Domingo</item>
+        <item>Abierto 24 horas</item>
+    </string-array>
+    <string-array name="nombres_entidad_financiera">
+        <item>Banco Nacional de Bolivia S.A.</item>
+        <item>Banco Unión S.A.</item>
+        <item>Banco Mercantil Santa Cruz S.A.</item>
+        <item>Banco Solidario S.A.</item>
+        <item>Banco Bisa S.A.</item>
+        <item>Banco Prodem S.A.</item>
+        <item>Banco Económico S.A.</item>
+        <item>Banco Ganadero S.A.</item>
+        <item>Banco Fassil S.A.</item>
+        <item>Banco de Crédito de Bolivia S.A.</item>
+    </string-array>
+</resources>

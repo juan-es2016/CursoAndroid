@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <fragment
+        android:id="@+id/map"
+        class="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        tools:ignore="RtlHardcoded" />
+
+    <Button
+        android:id="@+id/pasos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="9dp"
+        android:layout_marginRight="9dp"
+        android:background="@color/colorPrimary"
+        android:text="@string/pasos"
+        android:visibility="invisible"
+        tools:ignore="RelativeOverlap,RtlHardcoded" />
+
+    <LinearLayout
+        android:id="@+id/tiempo_distancia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="52dp"
+        android:background="@color/common_google_signin_btn_text_light_disabled"
+        android:orientation="horizontal"
+        android:visibility="invisible"
+        tools:ignore="RtlHardcoded">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            tools:ignore="UseCompoundDrawables">
+
+            <TextView
+                android:id="@+id/tvDistance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/_0_km"
+                android:textColor="@color/cardview_dark_background" />
+
+            <ImageView
+                android:id="@+id/imagedistancia"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:contentDescription="@string/distancia1"
+                app:srcCompat="@drawable/ic_distance"
+                tools:ignore="RtlHardcoded" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:orientation="vertical"
+            tools:ignore="RtlHardcoded,UseCompoundDrawables">
+
+            <TextView
+                android:id="@+id/tvDuration"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/_0_min"
+                android:textColor="@color/cardview_dark_background" />
+
+            <ImageView
+                android:id="@+id/imagetiempo"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:contentDescription="@string/tiempo1"
+                app:srcCompat="@drawable/ic_clock" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view_pasos"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="400dp"
+        android:background="#E8F5E9"
+        android:visibility="invisible"
+        app:layoutManager="LinearLayoutManager"
+        tools:context="com.m2.montano.j.localizadorcajeroscochalav2.Fragments.MapsFragment"
+        tools:ignore="RtlSymmetry"
+        tools:listitem="@layout/card_view_pasos">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <Button
+        android:id="@+id/mas_informacion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/pasos"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="9dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorPrimary"
+        android:padding="5dp"
+        android:text="@string/m_s_informaci_n"
+        android:visibility="invisible" />
+
+
+</RelativeLayout>

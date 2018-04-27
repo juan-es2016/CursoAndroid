@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "370922700760",
+    "firebase_url": "https://localizadorcajeroscochal-ff490.firebaseio.com",
+    "project_id": "localizadorcajeroscochal-ff490",
+    "storage_bucket": "localizadorcajeroscochal-ff490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370922700760:android:3436a1f3c17e272f",
+        "android_client_info": {
+          "package_name": "com.m2.montano.j.localizadorcajeroscochalav2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370922700760-euaskvfeqpq4fe63ifm3rv9f7r01ec1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.m2.montano.j.localizadorcajeroscochalav2",
+            "certificate_hash": "224145974c5f7258e919e356d233a2cfc2ae99e1"
+          }
+        },
+        {
+          "client_id": "370922700760-ha6bo3tb9a1gva4u3fujbgu1cfr2p0q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC36HqzSePs5-Utv51LF4yccL3oBgfbqr8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370922700760-ha6bo3tb9a1gva4u3fujbgu1cfr2p0q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
