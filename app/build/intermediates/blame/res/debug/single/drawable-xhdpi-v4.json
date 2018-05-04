@@ -92,12 +92,12 @@
         "source": "C:\\Users\\Juan\\.android\\build-cache\\cc68f25968ffc3d94b6d2afaf2f9664759d77ccb\\output\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
-        "merged": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "C:\\Users\\Juan\\.android\\build-cache\\0a014ea57ddf2f0e0e88d5256e131690e9e7ae64\\output\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
         "merged": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
         "source": "C:\\Users\\Juan\\.android\\build-cache\\0a014ea57ddf2f0e0e88d5256e131690e9e7ae64\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Juan\\.android\\build-cache\\0a014ea57ddf2f0e0e88d5256e131690e9e7ae64\\output\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "C:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",

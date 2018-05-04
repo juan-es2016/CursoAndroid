@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Apr 27 04:00:12 BOT 2018
+#Fri Apr 27 04:28:14 BOT 2018
 20.base=C\:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\resources-debug.ap_
 143.base=C\:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\resources-debug.ap_
 493.base=C\:\\Users\\Juan\\proyectosAndroid\\LocalizadorCajerosCochalaV2\\app\\build\\intermediates\\res\\resources-debug.ap_
